@@ -1,5 +1,5 @@
 target/
-out/
+out/*
 bin/*
 !.mvn/wrapper/maven-wrapper.jar
 .swp
