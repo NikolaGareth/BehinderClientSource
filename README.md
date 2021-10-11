@@ -1,6 +1,7 @@
 # 冰蝎客户端源码
 首先致敬作者rebeyond：https://github.com/rebeyond/Behinder/releases
 
+计划学习并魔改冰蝎
 # 本git更新内容【非官方内容】
 ```
 2021-05-20 逆向V3.0 Beta11_t00ls 官方原版逆向。
